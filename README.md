@@ -1,7 +1,7 @@
-# Rel-gio-de-Foco
-Um relógio de foco desenvolvido para o projeto de faculdade.
+# Cronômetro de Estudos
+Um Cronômetro de Estudos desenvolvido para o projeto de faculdade.
 
-# Relógio de Foco
+# Cronômetro de Estudos
 
 **Descrição do Projeto:**
 
@@ -15,7 +15,7 @@ O objetivo foi criar uma ferramenta simples e eficiente para ajudar a gerenciar 
 
 **Como Usar:**
 
-1.  Baixe o arquivo executável `relogio-de-foco.exe`.
+1.  Baixe o arquivo executável `relogio.exe`.
 2.  Execute o arquivo.
 3.  Selecione o tempo que deseja focar na atividade em seguida aperte em "iniciar" a cada vez que o cronometro chega a zero vc pontua.
 
