@@ -1,7 +1,7 @@
 # Rel-gio-de-Foco
 Um relógio de foco desenvolvido para o projeto de faculdade.
 
-# Relógio de Foco (Pomodoro Timer)
+# Relógio de Foco
 
 **Descrição do Projeto:**
 
